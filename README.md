@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mansicodelabs
 - 👀 I’m interested in Machine Learning Projects
 - 🌱 I’m currently conducting research in Reinforcement Learning and Recommender Systems
-- 📫 You can reach me at mansi.maheshwari.work@gmail.com
+- 📫 You can reach me at mmaheshwari@umass.edu or mansi.maheshwari.work@gmail.com
 
 
 <!---
